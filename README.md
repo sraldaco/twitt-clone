@@ -1,28 +1,26 @@
-# {{name}}
+# Vargas Aldaco Alejandro
+### Programación Declarativa
+
+- Prof Miguel Angel Piña Avelino 
+- Teoría Alejandro Hernández Mora 
+- Laboratorio Pablo G. González López
 
 ## Run
 
 ``` shell
-yarn install
-
-yarn watch
+$ yarn install
+$ shadow-cljs watch app
 ```
 
 ## Clean
 
 ``` shell
-yarn clean
+$ yarn clean
 ```
 
 ## Release
 
 ``` shell
-yarn release
+$ shadow-cljs release app
 ```
 
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
